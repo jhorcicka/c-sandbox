@@ -1,2 +1,2 @@
-# c-Sandbox
-C++ sandbox. 
+# c-sandbox
+C/C++ sandbox. 
